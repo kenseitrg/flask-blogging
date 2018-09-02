@@ -3,3 +3,5 @@ app/__pycache__/
 app/app.db
 __pycache__/
 app/app.db-journal
+app/__pycache__/forms.cpython-36.pyc
+app/__pycache__/routes.cpython-36.pyc
